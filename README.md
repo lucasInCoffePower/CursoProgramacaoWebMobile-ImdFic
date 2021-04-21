@@ -1,2 +1,2 @@
-# CursoProgramacaoWeb-ImdFic
+# CursoProgramacaoWeb/Mobile-ImdFic
 Repositório para programas e projetos 
